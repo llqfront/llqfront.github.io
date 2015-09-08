@@ -1,0 +1,31 @@
+{
+  "host": "",
+  "user": "",
+  "password": "",
+  "projectPath": "",
+  "serverDir": "",
+  "previewServerDir": "",
+  "widgetServerDir":"",
+  "cdn": "",
+  "newcdn": "",
+  "outputCustom": "",
+  "build":{
+    "livereload":true,
+    "sass":true,
+    "scss":true,
+    "less":true,
+    "csslint":false
+  },
+  "output":{
+    "cssImagesUrlReplace": false,
+    "cssCombo": false,
+    "jsCombo": false,
+    "combineWidgetCss":true,
+    "compressPng":false,
+    "compressCss":true,
+    "cssSprite":true,
+    "cssSpriteMargin":5,
+    "imagesSuffix":0
+  },
+  "localServerPort": 8082
+}
