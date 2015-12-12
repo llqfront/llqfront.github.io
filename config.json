@@ -22,7 +22,7 @@
     "jsCombo": false,
     "combineWidgetCss":true,
     "compressPng":false,
-    "compressCss":true,
+    "compressCss":false,
     "cssSprite":true,
     "cssSpriteMargin":5,
     "imagesSuffix":0
