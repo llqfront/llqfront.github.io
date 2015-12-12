@@ -70,15 +70,81 @@ a:hover {
   margin-top: 10px;
 }
 
+/**
+  pub
+*/
 
 body {
   background:url(i/body.jpg) no-repeat 0 0;
 }
-
-.div {
-  height: 100px;
-  background:red;
+.hdbg {
+    height:119px;background:url(i/hdbg.jpg) 0 0 repeat-x;
+    .header_bg{
+        height:119px;
+        background:url(i/header_bg.jpg) 0 0 no-repeat;
+        width:960px;
+        margin: auto;
+    }
+    .header{
+        width:900px;
+        height:85px;
+        margin:0 auto;
+    }
+    .logo{
+        width:327px;
+        height:85px;
+        float:left;
+        a{
+            display:block;
+            img{
+                display:block;
+            }
+        }
+    }
+    .right{
+        width:241px;
+        height:85px;
+        float:right;
+    }
+    .top{
+        height:31px;
+        padding-left:46px;
+        a{
+            float:left;
+            height:31px;
+            line-height:31px;
+            width:79px;
+            text-align:center;
+            color:#fff;
+            background:url(i/a_bg.jpg) right 0 no-repeat;
+        }
+    }
 }
+
+
+
+
+
+.bottom{padding:19px 0 0 19px;}
+.bottom .text{height:22px;width:151px;border:none;background:url(i/text.jpg) 0 0 no-repeat;float:left;line-height:22px;padding-left:11px;}
+.bottom .button{height:22px;width:40px;cursor:pointer;border:none;background:url(i/button.jpg) 0 0 no-repeat;float:left;}
+.banner{height:26px;padding-left:194px;width:706px;margin:0 auto;}
+
+#banner li{width:88px;float:left;height:26px;line-height:26px;text-align:center;background:url(i/a2_bg.jpg) 0 0 no-repeat;position:relative;}
+#banner li a{display:block;font-size:13px;color:#a40001;font-weight:bold;height:26px;line-height:26px;}
+
+#banner li p{ position:absolute;display:none;left:0px;z-index:20;background:url(i/body.jpg) 0 0 repeat;} 
+#banner li p a{width:88px;height:26px;line-height:26px;font-size:13px;font-weight:bold;color:#606060;} 
+#banner li p a:hover {color:#fff;background-color:#A70004;} 
+#banner li.no{background:none;}
+
+
+.footer{width:902px;margin:9px auto;height:18px;}
+.link{float:left;padding-left:26px;height:18px;line-height:18px;}
+.link a{float:left;height:18px;line-height:18px;width:75px;text-align:center;background:url(i/a_bg4.jpg) 0 1px no-repeat;color:#727272;}
+.footer p{float:right;height:18px;line-height:18px;color:#727272;padding-right:24px;} 
+.footer p a{color:#727272;}
+.footer2 {height:21px;padding-right:24px;width:878px;margin:0 auto 10px;text-align:right;}
 
 
 
