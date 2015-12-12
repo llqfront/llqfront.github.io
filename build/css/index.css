@@ -99,7 +99,7 @@ a:hover {
 }
 
 body {
-  background: url(i/body.jpg) no-repeat 0 0;
+  background: url(i/body.jpg) repeat 0 0;
 }
 
 .div {
