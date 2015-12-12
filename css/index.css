@@ -114,9 +114,6 @@ body {
 .right{width:241px;height:85px;float:right;}
 .top{height:31px;padding-left:46px;}
 .top a{float:left;height:31px;line-height:31px;width:79px;text-align:center;color:#fff;background:url(i/a_bg.jpg) right 0 no-repeat;}
-.bottom{padding:19px 0 0 19px;}
-.bottom .text{height:22px;width:151px;border:none;background:url(i/text.jpg) 0 0 no-repeat;float:left;line-height:22px;padding-left:11px;}
-.bottom .button{height:22px;width:40px;cursor:pointer;border:none;background:url(i/button.jpg) 0 0 no-repeat;float:left;}
 
 .banner{height:26px;padding-left:194px;width:706px;margin:0 auto;}
 
