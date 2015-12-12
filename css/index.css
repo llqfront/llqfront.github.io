@@ -115,15 +115,15 @@ body {
 .top{height:31px;padding-left:46px;}
 .top a{float:left;height:31px;line-height:31px;width:79px;text-align:center;color:#fff;background:url(i/a_bg.jpg) right 0 no-repeat;}
 
-.banner{height:26px;padding-left:194px;width:706px;margin:0 auto;}
+.nav{height:26px;padding-left:194px;width:706px;margin:0 auto;}
 
-#banner li{width:88px;float:left;height:26px;line-height:26px;text-align:center;background:url(i/a2_bg.jpg) 0 0 no-repeat;position:relative;}
-#banner li a{display:block;font-size:13px;color:#a40001;font-weight:bold;height:26px;line-height:26px;}
+.nav li{width:88px;float:left;height:26px;line-height:26px;text-align:center;background:url(i/a2_bg.jpg) 0 0 no-repeat;position:relative;}
+.nav li a{display:block;font-size:13px;color:#a40001;font-weight:bold;height:26px;line-height:26px;}
 
-#banner li p{ position:absolute;display:none;left:0px;z-index:20;background:url(i/body.jpg) 0 0 repeat;} 
-#banner li p a{width:88px;height:26px;line-height:26px;font-size:13px;font-weight:bold;color:#606060;} 
-#banner li p a:hover {color:#fff;background-color:#A70004;} 
-#banner li.no{background:none;}
+.nav li p{ position:absolute;display:none;left:0px;z-index:20;background:url(i/body.jpg) 0 0 repeat;}
+.nav li p a{width:88px;height:26px;line-height:26px;font-size:13px;font-weight:bold;color:#606060;}
+.nav li p a:hover {color:#fff;background-color:#A70004;}
+.nav li.no{background:none;}
 
 
 
