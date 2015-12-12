@@ -105,7 +105,7 @@ body {
   background: url(i/body.jpg) no-repeat 0 0;
 }
 /** header **/
-.header_bg1{height:119px;background:url(i/hdbg.jpg) 0 0 repeat-x;}
+.hdbg{height:119px;background:url(i/hdbg.jpg) 0 0 repeat-x;}
 .header_bg{height:119px;background:url(i/header_bg.jpg) 0 0 no-repeat;width:960px;margin: auto;}
 .header{width:900px;height:85px;margin:0 auto;}
 .logo{width:327px;height:85px;float:left;}
