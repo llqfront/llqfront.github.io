@@ -102,7 +102,7 @@ a:hover {
   pub
 */
 body {
-  background: url(i/body.jpg) no-repeat 0 0;
+  background: url(i/body.jpg) repeat 0 0;
 }
 /** header **/
 .hdbg{height:119px;background:url(i/hdbg.jpg) 0 0 repeat-x;}
