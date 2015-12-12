@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/angular.js" afterPath="$PROJECT_DIR$/build/js/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/backbone.js" afterPath="$PROJECT_DIR$/build/js/backbone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/base.js" afterPath="$PROJECT_DIR$/build/js/base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" afterPath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.scss" afterPath="$PROJECT_DIR$/css/index.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/jquery.js" afterPath="$PROJECT_DIR$/build/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/pinyin.js" afterPath="$PROJECT_DIR$/build/js/pinyin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/testApp.js" afterPath="$PROJECT_DIR$/build/js/testApp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/underscore.js" afterPath="$PROJECT_DIR$/build/js/underscore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unit.js" afterPath="$PROJECT_DIR$/build/js/unit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unparam.js" afterPath="$PROJECT_DIR$/build/js/unparam.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/v.js" afterPath="$PROJECT_DIR$/build/js/v.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.js" afterPath="$PROJECT_DIR$/build/js/vue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.min.js" afterPath="$PROJECT_DIR$/build/js/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="llqfront.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.04032258">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.5645161">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -305,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04032258">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.5645161">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="36" />
           <folding />
         </state>
       </provider>
