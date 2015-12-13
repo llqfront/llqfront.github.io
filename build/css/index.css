@@ -312,9 +312,8 @@ nav ul li a:hover {
 
 .keywords ul li {
   width: 226px;
-  padding: 0 7px;
+  padding: 0 12px 5px;
   float: left;
-  margin-right: 10px;
 }
 
 .keywords ul li .k-img {
@@ -346,5 +345,5 @@ nav ul li a:hover {
 }
 
 .keywords ul li:hover {
-  box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #fff;
 }

@@ -181,9 +181,8 @@ nav {
     margin-top: 10px;
     li {
       width: 226px;
-      padding: 0 7px;
+      padding: 0 12px 5px;
       float: left;
-      margin-right: 10px;
       .k-img {
         display: block;
         width: 226px;
@@ -208,7 +207,7 @@ nav {
         overflow: hidden;
       }
       &:hover{
-        box-shadow:0 0 5px #ccc;
+        box-shadow:0 0 5px #fff;
       }
     }
   }
