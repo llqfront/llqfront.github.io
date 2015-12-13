@@ -345,4 +345,6 @@ nav ul li a:hover {
 
 .keywords ul li p {
   line-height: 25px;
+  height: 50px;
+  overflow: hidden;
 }
