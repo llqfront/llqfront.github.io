@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/f1.png" afterPath="$PROJECT_DIR$/images/f1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/f2.png" afterPath="$PROJECT_DIR$/images/f2.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/angular.js" afterPath="$PROJECT_DIR$/build/js/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/backbone.js" afterPath="$PROJECT_DIR$/build/js/backbone.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/base.js" afterPath="$PROJECT_DIR$/build/js/base.js" />
@@ -55,8 +53,8 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.313725">
-              <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
+            <state vertical-scroll-proportion="-13.90196">
+              <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -78,7 +76,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1450017570000" expanded="true" signature="4496:4499" placeholder="{...}" />
+                <marker date="1450017736000" expanded="true" signature="4496:4499" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -363,15 +361,15 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1450017570000" expanded="true" signature="4496:4499" placeholder="{...}" />
+            <marker date="1450017736000" expanded="true" signature="4496:4499" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.313725">
-          <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
+        <state vertical-scroll-proportion="-13.90196">
+          <caret line="212" column="5" selection-start-line="212" selection-start-column="5" selection-end-line="212" selection-end-column="5" />
           <folding />
         </state>
       </provider>
