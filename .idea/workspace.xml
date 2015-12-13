@@ -2,152 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lib.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a_bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/a_bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/ba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/banner/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/body.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/btn1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/btn2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/button.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/case.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/cen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/cen2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/con6_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/dt_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/flash.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/flash2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/flash_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h2_bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/h5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/hdbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/header_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/header_bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/l2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/li.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/li2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/li3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/link.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/main_b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/main_b2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/main_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/map.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/ne.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/nn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/select.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/spa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/span.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/span2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/text.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/xa1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/css/i/xa2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a_bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/a_bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/ba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/banner/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/btn1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/btn2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/button.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/case.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/cen.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/cen2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/con6_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/dt_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/flash.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/flash2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/flash_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h2_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h2_bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/h5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/hdbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/header_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/header_bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/img5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/l2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/li.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/li2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/li3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/link.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/main_b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/main_b2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/main_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/map.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/ne.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/nn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/select.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/slide1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/spa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/span.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/span2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/text.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/xa1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/i/xa2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/i/body.jpg" afterPath="$PROJECT_DIR$/css/i/body.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/angular.js" afterPath="$PROJECT_DIR$/build/js/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/backbone.js" afterPath="$PROJECT_DIR$/build/js/backbone.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/base.js" afterPath="$PROJECT_DIR$/build/js/base.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" afterPath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.scss" afterPath="$PROJECT_DIR$/css/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/jquery.js" afterPath="$PROJECT_DIR$/build/js/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/pinyin.js" afterPath="$PROJECT_DIR$/build/js/pinyin.js" />
@@ -158,7 +18,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/v.js" afterPath="$PROJECT_DIR$/build/js/v.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.js" afterPath="$PROJECT_DIR$/build/js/vue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.min.js" afterPath="$PROJECT_DIR$/build/js/vue.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="llqfront.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -182,8 +41,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.117647">
-              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+            <state vertical-scroll-proportion="-5.2941175">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -192,8 +51,8 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8834197">
-              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.86398965">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -442,14 +301,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/lib.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
@@ -465,16 +316,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.117647">
-          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        <state vertical-scroll-proportion="-5.2941175">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8834197">
-          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.86398965">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
           <folding />
         </state>
       </provider>
