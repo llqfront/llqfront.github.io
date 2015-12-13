@@ -128,18 +128,23 @@ header .qq {
   color: #333;
 }
 
-footer {
-  margin-top: 10px;
+.footer {
+  background: #f7f7f7;
+  height: 40px;
 }
 
-footer p {
+.footer footer {
+  padding-top: 10px;
+}
+
+.footer footer p {
   float: right;
-  height: 18px;
-  line-height: 18px;
+  height: 20px;
+  line-height: 20px;
   color: #727272;
 }
 
-footer p a {
+.footer footer p a {
   color: #727272;
 }
 
@@ -211,6 +216,7 @@ nav ul li a:hover {
   display: block;
   width: 50px;
   height: 50px;
+  border-radius: 6px;
 }
 
 .i-list dl dt {
@@ -291,4 +297,53 @@ nav ul li a:hover {
 
 .shortcut ul li:hover a {
   text-decoration: none;
+}
+
+.keywords {
+  overflow: hidden;
+}
+
+.keywords h3 {
+  height: 30px;
+  line-height: 30px;
+  font-size: 14px;
+  font-family: "Microsoft Yahei";
+}
+
+.keywords ul {
+  margin-top: 10px;
+  width: 1024px;
+}
+
+.keywords ul li {
+  width: 220px;
+  padding: 0 5px;
+  float: left;
+  margin-right: 26px;
+}
+
+.keywords ul li .k-img {
+  display: block;
+  width: 220px;
+  height: 124px;
+}
+
+.keywords ul li .k-img img {
+  display: block;
+  width: 220px;
+}
+
+.keywords ul li h2 {
+  height: 25px;
+  line-height: 25px;
+}
+
+.keywords ul li h5 {
+  border-top: 1px solid #f8f8f8;
+  height: 25px;
+  line-height: 25px;
+}
+
+.keywords ul li p {
+  line-height: 25px;
 }

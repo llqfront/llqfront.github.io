@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.scss" afterPath="$PROJECT_DIR$/css/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/angular.js" afterPath="$PROJECT_DIR$/build/js/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/backbone.js" afterPath="$PROJECT_DIR$/build/js/backbone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/base.js" afterPath="$PROJECT_DIR$/build/js/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" afterPath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/jquery.js" afterPath="$PROJECT_DIR$/build/js/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/pinyin.js" afterPath="$PROJECT_DIR$/build/js/pinyin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/testApp.js" afterPath="$PROJECT_DIR$/build/js/testApp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/underscore.js" afterPath="$PROJECT_DIR$/build/js/underscore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unit.js" afterPath="$PROJECT_DIR$/build/js/unit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unparam.js" afterPath="$PROJECT_DIR$/build/js/unparam.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/v.js" afterPath="$PROJECT_DIR$/build/js/v.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.js" afterPath="$PROJECT_DIR$/build/js/vue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.min.js" afterPath="$PROJECT_DIR$/build/js/vue.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="llqfront.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,14 +42,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.490196">
-              <caret line="161" column="62" selection-start-line="161" selection-start-column="62" selection-end-line="161" selection-end-column="62" />
+            <state vertical-scroll-proportion="-2.4313726">
+              <caret line="154" column="30" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -43,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5142487">
-              <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
+            <state vertical-scroll-proportion="-5.8589745">
+              <caret line="198" column="21" selection-start-line="198" selection-start-column="21" selection-end-line="198" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -314,31 +330,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/f1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.490196">
-          <caret line="161" column="62" selection-start-line="161" selection-start-column="62" selection-end-line="161" selection-end-column="62" />
+        <state vertical-scroll-proportion="-5.8589745">
+          <caret line="198" column="21" selection-start-line="198" selection-start-column="21" selection-end-line="198" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5142487">
-          <caret line="194" column="23" selection-start-line="194" selection-start-column="23" selection-end-line="194" selection-end-column="23" />
+        <state vertical-scroll-proportion="-2.4313726">
+          <caret line="154" column="30" selection-start-line="154" selection-start-column="30" selection-end-line="154" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
