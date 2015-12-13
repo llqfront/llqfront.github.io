@@ -180,16 +180,17 @@ nav {
   ul {
     margin-top: 10px;
     li {
-      width: 236px;
+      width: 226px;
+      padding: 0 5px;
       float: left;
       margin-right: 20px;
       .k-img {
         display: block;
-        width: 236px;
-        height: 133px;
+        width: 226px;
+        height: 127px;
         img {
           display: block;
-          width: 236px;
+          width: 226px;
         }
       }
       h2 {
@@ -207,7 +208,7 @@ nav {
         overflow: hidden;
       }
       &:hover{
-        box-shadow:0 0 5px red;
+        box-shadow:0 0 5px #ccc;
       }
     }
   }
