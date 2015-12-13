@@ -91,7 +91,7 @@ a:hover {
 
 .m {
   margin: 0 auto;
-  width: 1200px;
+  width: 1000px;
 }
 
 .t10 {
@@ -174,29 +174,36 @@ nav ul li a:hover {
   text-decoration: none;
 }
 
+.section {
+  background: #fbfbfb;
+  border-radius: 0 0 10px 10px;
+}
+
 .article {
   float: left;
-  width: 970px;
+  width: 720px;
+  background: #fff;
+  border-radius: 0 0 0 10px;
 }
 
 .aside {
   float: right;
-  width: 200px;
-  background: #fefefe;
+  width: 270px;
 }
 
 .i-list {
-  padding-top: 10px;
+  padding: 10px;
 }
 
 .i-list dl {
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 .i-list dl dd {
   float: left;
   width: 50px;
   height: 50px;
+  border: 1px solid #ccc;
   border-radius: 6px;
 }
 
@@ -204,5 +211,84 @@ nav ul li a:hover {
   display: block;
   width: 50px;
   height: 50px;
-  border-radius: 6px;
+}
+
+.i-list dl dt {
+  margin-left: 66px;
+}
+
+.i-list dl dt h3 {
+  height: 27px;
+  line-height: 27px;
+  font-size: 16px;
+  color: #333;
+}
+
+.i-list dl dt h3 a {
+  font-size: 16px;
+  color: #333;
+  font-family: "Microsoft Yahei";
+}
+
+.i-list dl dt .des {
+  height: 22px;
+  margin-top: 3px;
+}
+
+.i-list dl dt .des .tag {
+  background-color: #f60;
+  float: left;
+  height: 20px;
+  padding: 0 5px;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  font-family: "Microsoft Yahei";
+}
+
+.i-list dl dt .des span {
+  float: left;
+  height: 20px;
+  padding-left: 10px;
+  line-height: 20px;
+  font-family: "Microsoft Yahei";
+}
+
+.shortcut {
+  padding-top: 10px;
+}
+
+.shortcut h3 {
+  height: 33px;
+  line-height: 33px;
+  font-size: 14px;
+  font-family: "Microsoft Yahei";
+  color: #333;
+}
+
+.shortcut ul {
+  margin-right: 5px;
+}
+
+.shortcut ul li {
+  line-height: 27px;
+  height: 27px;
+  padding-left: 5px;
+}
+
+.shortcut ul li a {
+  font-size: 14px;
+  font-family: "Microsoft Yahei";
+  display: block;
+}
+
+.shortcut ul li:hover {
+  background: #f1f1f1;
+}
+
+.shortcut ul li:hover a {
+  text-decoration: none;
 }
