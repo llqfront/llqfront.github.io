@@ -25,18 +25,23 @@ header {
     color: #333;
   }
 }
-footer {
-  margin-top: 10px;
-  p {
-    float: right;
-    height: 18px;
-    line-height: 18px;
-    color: #727272;
-    a {
+.footer {
+  background: #f7f7f7;
+  height: 40px;
+  footer {
+    padding-top: 10px;
+    p {
+      float: right;
+      height: 20px;
+      line-height: 20px;
       color: #727272;
+      a {
+        color: #727272;
+      }
     }
   }
 }
+
 
 nav {
   height: 40px;
@@ -92,6 +97,7 @@ nav {
         display: block;
         width: 50px;
         height: 50px;
+        border-radius: 6px;
       }
     }
     dt {
@@ -162,4 +168,31 @@ nav {
       }
     }
   }
+}
+
+.keywords {
+  overflow: hidden;
+  h3 {
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    font-family: $ff;
+  }
+  ul {
+    width: 1025px;
+    li {
+      width: 225px;
+      margin-right: 25px;
+      .k-img {
+        display: block;
+        width: 225px;
+        height: 150px;
+        img {
+          display: block;
+          width: 225px;
+        }
+      }
+    }
+  }
+
 }
