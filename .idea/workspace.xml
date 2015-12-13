@@ -4,6 +4,7 @@
     <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.scss" afterPath="$PROJECT_DIR$/css/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="llqfront.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.81226534">
-              <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.28660825">
+              <caret line="161" column="62" selection-start-line="161" selection-start-column="62" selection-end-line="161" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -47,8 +48,8 @@
       <file leaf-file-name="index.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.782051">
-              <caret line="191" column="23" selection-start-line="191" selection-start-column="23" selection-end-line="191" selection-end-column="23" />
+            <state vertical-scroll-proportion="-5.0897436">
+              <caret line="195" column="20" selection-start-line="195" selection-start-column="20" selection-end-line="195" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -330,16 +331,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.782051">
-          <caret line="191" column="23" selection-start-line="191" selection-start-column="23" selection-end-line="191" selection-end-column="23" />
+        <state vertical-scroll-proportion="-5.0897436">
+          <caret line="195" column="20" selection-start-line="195" selection-start-column="20" selection-end-line="195" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.81226534">
-          <caret line="155" column="72" selection-start-line="155" selection-start-column="72" selection-end-line="155" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.28660825">
+          <caret line="161" column="62" selection-start-line="161" selection-start-column="62" selection-end-line="161" selection-end-column="62" />
           <folding />
         </state>
       </provider>
