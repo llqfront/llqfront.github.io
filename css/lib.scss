@@ -1,7 +1,8 @@
+$ff: 'Microsoft Yahei';
 body, textarea, input, select, option {
   font-size: 12px;
   color: #333;
-  font-family: "Microsoft Yahei", Tahoma, Arial, sans-serif;
+  font-family: $ff, Tahoma, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -96,94 +97,4 @@ a:hover {
 
 .t10 {
   margin-top: 10px;
-}
-
-/**
-  pub
-*/
-body {
-  background: url(i/body.jpg) repeat 0 0;
-}
-
-header {
-  height: 50px;
-}
-
-header .logo {
-  height: 50px;
-  float: left;
-}
-
-header .logo strong {
-  height: 50px;
-  font-size: 24px;
-  font-family: "Microsoft Yahei";
-  color: #f60;
-  display: block;
-  line-height: 50px;
-}
-
-header .qq {
-  float: right;
-  height: 50px;
-  line-height: 50px;
-  font-size: 14px;
-  color: #333;
-}
-
-footer {
-  margin-top: 10px;
-}
-
-footer p {
-  float: right;
-  height: 18px;
-  line-height: 18px;
-  color: #727272;
-}
-
-footer p a {
-  color: #727272;
-}
-
-nav {
-  height: 40px;
-  background: #3e3e3e;
-}
-
-nav ul {
-  background: #3e3e3e;
-}
-
-nav ul li {
-  float: left;
-  width: 70px;
-  height: 40px;
-  margin-right: 10px;
-}
-
-nav ul li a {
-  float: left;
-  width: 70px;
-  height: 40px;
-  line-height: 40px;
-  color: #fff;
-  font-size: 16px;
-  text-align: center;
-}
-
-nav ul li a:hover {
-  background: #000;
-  text-decoration: none;
-}
-
-.article {
-  float: left;
-  width: 970px;
-}
-
-.aside {
-  float: right;
-  width: 200px;
-  background: #fefefe;
 }
