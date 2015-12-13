@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/ph.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/angular.js" afterPath="$PROJECT_DIR$/build/js/angular.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/backbone.js" afterPath="$PROJECT_DIR$/build/js/backbone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/base.js" afterPath="$PROJECT_DIR$/build/js/base.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" afterPath="$PROJECT_DIR$/build/js/handlebars-1.1.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/index.css" afterPath="$PROJECT_DIR$/build/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.scss" afterPath="$PROJECT_DIR$/css/index.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/jquery.js" afterPath="$PROJECT_DIR$/build/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/css/lib.css" afterPath="$PROJECT_DIR$/build/css/lib.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/lib.scss" afterPath="$PROJECT_DIR$/css/lib.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/main.js" afterPath="$PROJECT_DIR$/build/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/pinyin.js" afterPath="$PROJECT_DIR$/build/js/pinyin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/testApp.js" afterPath="$PROJECT_DIR$/build/js/testApp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/underscore.js" afterPath="$PROJECT_DIR$/build/js/underscore.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unit.js" afterPath="$PROJECT_DIR$/build/js/unit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/unparam.js" afterPath="$PROJECT_DIR$/build/js/unparam.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/v.js" afterPath="$PROJECT_DIR$/build/js/v.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.js" afterPath="$PROJECT_DIR$/build/js/vue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/js/vue.min.js" afterPath="$PROJECT_DIR$/build/js/vue.min.js" />
-    </list>
+    <list default="true" id="6cbecb60-0e04-4c6c-ab2c-2eddfba5d5a5" name="Default" comment="" />
     <ignored path="llqfront.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,17 +21,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.196078">
+            <state vertical-scroll-proportion="0.58698374">
               <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -328,18 +306,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.196078">
-          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58698374">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
           <folding />
         </state>
       </provider>
